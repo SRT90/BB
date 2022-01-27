@@ -17,7 +17,7 @@
 </p>
 
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> T90 Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
