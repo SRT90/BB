@@ -68,10 +68,10 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/SRT90/BB.git 
 ```
 ```
-cd Bosco
+cd BB
 ```
 ```
 bash install.sh
